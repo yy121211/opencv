@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/4/26 19:55:47。
+     1>项目“C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\遐想——遨游太阳系\遐想——遨游太阳系.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\新建文件夹 (3)\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\遐想——遨游太阳系.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\新建文件夹 (3)\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\遐想——遨游太阳系.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "遐想——遨游太阳系.cpp"
+         遐想——遨游太阳系.cpp
+       Link:
+         D:\新建文件夹 (3)\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\Debug\遐想——遨游太阳系.exe" /INCREMENTAL /NOLOGO glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\Debug\遐想——遨游太阳系.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\Debug\遐想——遨游太阳系.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\遐想——遨游太阳系.obj"
+         遐想——遨游太阳系.vcxproj -> C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\Debug\遐想——遨游太阳系.exe
+     1>已完成生成项目“C:\Users\ASUS\Desktop\学习文件\3180121087+姚卓+遐想-遨游太阳系\遐想——遨游太阳系\遐想——遨游太阳系\遐想——遨游太阳系.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.57
